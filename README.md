@@ -20,7 +20,7 @@ A Discord bot that conceals secret text messages within WAV audio files using LS
 [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/)
 [![Discord.py](https://img.shields.io/badge/discord.py-blue.svg)](https://discordpy.readthedocs.io/en/stable/)
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Project Structure](#-project-structure) • [Security Considerations](#-security-considerations) • [Contributing](#-contributing)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Contributing](#-contributing)
 
 </div>
 
