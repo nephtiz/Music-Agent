@@ -20,13 +20,12 @@ A Discord bot that conceals secret text messages within WAV audio files using LS
 [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/)
 [![Discord.py](https://img.shields.io/badge/discord.py-blue.svg)](https://discordpy.readthedocs.io/en/stable/)
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [How It Works](#-how-it-works) • [Contributing](#-contributing)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Project Structure](#-project-structure) • [Security Considerations](#-security-considerations) • [Contributing](#-contributing)
 
 </div>
 
 ## 🌟 Features
 
-- **Advanced LSB Steganography:** Seamlessly embed and extract secret messages in WAV audio files using Least Significant Bit manipulation
 - **Discord Integration:**
   - Encrypt messages using slash command (`/encrypt`)
   - Decrypt messages via context menu (right-click on message)
