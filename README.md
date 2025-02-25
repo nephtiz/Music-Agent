@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/nephtiz/Audio-Steganography-Discord-Bot">
+  <a href="https://github.com/nephtiz/Music-Agent">
     <img src= "https://i.imgur.com/y0zsgQl.gif"
       alt="agent"
       width="175"
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-# <p align="center">Audio Steganography Discord Bot</p>
+# <p align="center">| Agent</p>
 
 <div align="center">
 
@@ -55,8 +55,8 @@ A Discord bot that conceals secret text messages within WAV audio files using LS
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/nephtiz/Audio-Steganography-Discord-Bot.git
-   cd Audio-Steganography-Discord-Bot
+   git clone https://github.com/nephtiz/Music-Agent.git
+   cd Music-Agent
    ```
 
 2. **Install Dependencies:**
@@ -148,6 +148,6 @@ Contributions are welcome! Fork the repo and open a Pull Request with your chang
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/nephtiz/Audio-Steganography-Discord-Bot/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/nephtiz/Music-Agent/blob/main/LICENSE) file for details.
 
 <p align="center">✦・―――――――・✦</p>
