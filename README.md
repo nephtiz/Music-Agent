@@ -10,7 +10,7 @@
   </a>
 </p>
 
-# <p align="center">| Agent</p>
+# <p align="center">Music Agent</p>
 
 <div align="center">
 
